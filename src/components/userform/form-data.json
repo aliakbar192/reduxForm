@@ -1,0 +1,33 @@
+[
+    {
+      "name": "firstName",
+      "label": "First Name*",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "lastName",
+      "label": "Last Name*",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "email",
+      "label": "Email*",
+      "type": "email",
+      "required": true
+    },
+    {
+      "name": "phoneNo",
+      "label": "Phone No*",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "address",
+      "label": "Address*",
+      "type": "text",
+      "required": true
+    }
+  ]
+  

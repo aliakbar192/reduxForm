@@ -1,0 +1,15 @@
+[
+    {
+      "name": "title",
+      "label": "Title*",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "body",
+      "label": "Body*",
+      "type": "text",
+      "required": true
+    }
+  ]
+  
